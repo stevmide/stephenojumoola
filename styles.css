@@ -209,7 +209,7 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #646464;
   text-decoration: underline;
 }
 a:hover {
@@ -7015,6 +7015,12 @@ textarea.form-control-lg {
 
 .mb-5 {
   margin-bottom: 3rem !important;
+  
+}
+
+.align{
+
+  margin-left: 5em;
 }
 
 .mb-auto {
@@ -10892,6 +10898,7 @@ p.lead {
   text-transform: uppercase;
   font-weight: 500;
   font-size: 1.5rem;
+  
 }
 
 #sideNav {
@@ -10970,6 +10977,28 @@ p.lead {
 .dev-icons {
   font-size: 3rem;
 }
+
+.skillsproject{
+  width: 200%;
+  height: 200px;
+  
+  margin: auto;
+  padding-left: 70px;
+  }
+
+  .left{
+    width: 15%;
+    height: 200px;
+  
+    
+    
+    float: left;
+  }
+  .right{
+    margin-left: 20%;
+    height: 200px;
+   
+  } 
 
 section.resume-section {
   display: flex;
