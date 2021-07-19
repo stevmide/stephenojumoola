@@ -10949,27 +10949,6 @@ p.lead {
   }
 }
 
-.skillsproject{
-  width: 200%;
-  height: 200px;
-  
-  margin: auto;
-  padding-left: 70px;
-  }
-
-  .left{
-    width: 15%;
-    height: 200px;
-  
-    
-    
-    float: left;
-  }
-  .right{
-    margin-left: 20%;
-    height: 200px;
-   
-  } 
 
 .social-icons .social-icon {
   display: inline-flex;
