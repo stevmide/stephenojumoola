@@ -209,7 +209,7 @@ sup {
 }
 
 a {
-  color: #646464;
+  color: #bd5d38;
   text-decoration: underline;
 }
 a:hover {
@@ -7015,12 +7015,6 @@ textarea.form-control-lg {
 
 .mb-5 {
   margin-bottom: 3rem !important;
-  
-}
-
-.align{
-
-  margin-left: 5em;
 }
 
 .mb-auto {
@@ -10898,7 +10892,6 @@ p.lead {
   text-transform: uppercase;
   font-weight: 500;
   font-size: 1.5rem;
-  
 }
 
 #sideNav {
@@ -10955,28 +10948,6 @@ p.lead {
     display: block;
   }
 }
-.social-icons .social-icon {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  height: 3.5rem;
-  width: 3.5rem;
-  background-color: #495057;
-  color: #fff;
-  border-radius: 100%;
-  font-size: 1.5rem;
-  margin-right: 1.5rem;
-}
-.social-icons .social-icon:last-child {
-  margin-right: 0;
-}
-.social-icons .social-icon:hover {
-  background-color: #bd5d38;
-}
-
-.dev-icons {
-  font-size: 3rem;
-}
 
 .skillsproject{
   width: 200%;
@@ -10999,6 +10970,29 @@ p.lead {
     height: 200px;
    
   } 
+
+.social-icons .social-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: #495057;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 1.5rem;
+  margin-right: 1.5rem;
+}
+.social-icons .social-icon:last-child {
+  margin-right: 0;
+}
+.social-icons .social-icon:hover {
+  background-color: #bd5d38;
+}
+
+.dev-icons {
+  font-size: 3rem;
+}
 
 section.resume-section {
   display: flex;
